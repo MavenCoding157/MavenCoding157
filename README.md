@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I make hacking tools such as: DDoSer's, malware, cheats, etc and post some of my stuff on youtube
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MavenCoding157)](https://github.com/anuraghazra/github-readme-stats)
+
+I make Hacking tools like: DDoSer's, Malware, etc
 
 # **🌐 Socials**
 • [Youtube](https://www.youtube.com/channel/UCkP2YjZfvZIfArYbAUyRLsg)
@@ -10,4 +12,5 @@ I make hacking tools such as: DDoSer's, malware, cheats, etc and post some of my
 • Sometimes python
 • Rarely C++
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MavenCoding157)](https://github.com/anuraghazra/github-readme-stats)
+
+
