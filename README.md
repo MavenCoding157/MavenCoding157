@@ -9,7 +9,9 @@
 
 # **🔨 Tools**
 • I mainly use C#
+
 • Sometimes python
+
 • Rarely C++
 
 
