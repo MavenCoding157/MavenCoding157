@@ -8,9 +8,9 @@
 • [Youtube](https://www.youtube.com/channel/UCkP2YjZfvZIfArYbAUyRLsg)
 
 # **My Favourite Tool 👾💻⚠️**
-Creator of 'RANO Anti Virus'
+Creator of 'ShooterZ Menu'
 
-[RANO Anti Virus](https://github.com/MavenCoding157/RANO-Anti-Virus)
+[ShooterZ Menu](https://github.com/MavenCoding157/ShooterZ-menu)
 
 # **🔨 Tools**
 • I mainly use C#
@@ -21,7 +21,7 @@ Creator of 'RANO Anti Virus'
 
 # **💡 My Recommendations**
 
-[The RANO Anti-Virus](https://github.com/MavenCoding157/RANO-Anti-Virus)
+[ShooterZ Menu](https://github.com/MavenCoding157/ShooterZ-menu)
 
 
 
