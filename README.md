@@ -2,7 +2,7 @@
 
 **I make Hacking tools like: DDoSer's, Malware, etc. And I am the maker of ShooterZ Menu.**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MavenCoding157&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MavenCoding157&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MavenCoding157&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
