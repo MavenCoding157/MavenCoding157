@@ -8,9 +8,9 @@
 • [Youtube](https://www.youtube.com/channel/UCkP2YjZfvZIfArYbAUyRLsg)
 
 # **My Favourite Tool 👾💻⚠️**
-Creator of 'ShooterZ Menu'
+Creator of 'Quantum CSGO Menu'
 
-[ShooterZ Menu](https://github.com/MavenCoding157/ShooterZ-menu)
+[Quantum-CSGO-Menu](https://github.com/MavenCoding157/Quantum-CSGO-Menu)
 
 # **🔨 Tools**
 • I mainly use C#
@@ -21,7 +21,7 @@ Creator of 'ShooterZ Menu'
 
 # **💡 My Recommendations**
 
-[ShooterZ Menu](https://github.com/MavenCoding157/ShooterZ-menu)
+[Quantum-CSGO-Menu](https://github.com/MavenCoding157/Quantum-CSGO-Menu)
 
 
 
