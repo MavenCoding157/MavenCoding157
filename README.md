@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I make Hacking tools like: DDoSer's, Malware, etc. And I am the owner of Quantum CSGO Menu.**
+**I make Hacking tools like: DDoSer's, Malware, Cheat Menu's, etc. And I am the owner of Quantum CSGO Menu.**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MavenCoding157&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
