@@ -10,7 +10,7 @@
 # **My Favourite Tool 👾💻⚠️**
 Creator of 'Quantum CSGO Menu'
 
-[Quantum-CSGO-Menu](https://github.com/MavenCoding157/Quantum-CSGO-Menu)
+• [Quantum-CSGO-Menu](https://github.com/MavenCoding157/Quantum-CSGO-Menu)
 
 # **🔨 Tools**
 • I mainly use C#
@@ -21,7 +21,7 @@ Creator of 'Quantum CSGO Menu'
 
 # **💡 My Recommendations**
 
-[Quantum-CSGO-Menu](https://github.com/MavenCoding157/Quantum-CSGO-Menu)
+• [Quantum-CSGO-Menu](https://github.com/MavenCoding157/Quantum-CSGO-Menu)
 
 
 
