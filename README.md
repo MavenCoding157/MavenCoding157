@@ -19,6 +19,7 @@ Creator of 'Quantum CSGO Menu'
 # 💡 My Recommendations
 
 • [Quantum-CSGO-Menu](https://github.com/MavenCoding157/Quantum-CSGO-Menu)
+• [Maven-Cheat-Loader](https://github.com/MavenCoding157/Maven-Cheat-Loader)
 
 
 
