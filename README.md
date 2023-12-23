@@ -12,11 +12,11 @@ Creator of 'Quantum CSGO Menu'
 • [Quantum-CSGO-Menu](https://github.com/MavenCoding157/Quantum-CSGO-Menu)
 
 # 🔨 Tools
-• I mainly use C#
-
-• Sometimes python
+• I mainly use C# (even though it says I dont)
 
 • And some C++
+
+• And sometimes some python
 
 # 💡 My Recommendations
 
